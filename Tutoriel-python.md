@@ -32,7 +32,7 @@ link:     some css stuff
 ## VSCode
 ![vsc](https://raw.githubusercontent.com/riadhbennessib/Tutoriels/main/images/logoVSC.png)
 ## Spyder
-![Spyder](https://raw.githubusercontent.com/riadhbennessib/Tutoriels/main/images/logoSpyder.png)<!--
+![Spyder](https://raw.githubusercontent.com/riadhbennessib/Tutoriels/main/images/logoSpider.png)<!--
 style = "width: 100px;
          border: 10px solid;
          filter: grayscale(50%);"
