@@ -8,6 +8,14 @@ version:  0.0.1
 
 language: fr
 
+
+script:   javascript resourse url
+
+script:   another javascript resourse url
+
+link:     some css stuff
+          and some more css
+
 -->
 # Introduction à Python
 
