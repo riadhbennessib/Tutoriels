@@ -35,7 +35,7 @@ link:     some css stuff
 ![vsc](https://raw.githubusercontent.com/riadhbennessib/Tutoriels/main/images/logoVSC.png)<!--
 style = "width: 100px;
          border: 10px solid;
-         filter: grayscale(100%);"
+         filter: grayscale(50%);"
 
 class = "animated infinite bounce"
 -->
