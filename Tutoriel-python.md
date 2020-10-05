@@ -9,5 +9,5 @@
 ## Ipython
 ## Jupyter
 ## VSCode
-![vsc](https://github.com/riadhbennessib/Tutoriels/blob/main/images/logoVSC.png)
+![vsc](images/logoVSC.png)
 ## Spider
