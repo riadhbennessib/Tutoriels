@@ -1,6 +1,6 @@
 # Introduction à Python
 
-![riadhbennessib](https://raw.githubusercontent.com/riadhbennessib/Tutoriels/main/images//riadhbennessib.png)
+![riadhbennessib](https://raw.githubusercontent.com/riadhbennessib/Tutoriels/main/images/riadhbennessib.png)
 
 
 (c) 2020, par riadh BEN NESSIB
